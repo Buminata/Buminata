@@ -111,12 +111,11 @@ Focused on **clean, efficient & reliable systems** that solve real-world problem
 # 📊 GitHub Stats  
 ## 📊 GitHub Stats
 
-![Buminata's GitHub Stats](https://github-readme-stats.vercel.app/api?username=buminata&show_icons=true&theme=tokyonight&count_private=true)
+## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=buminata&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+![Buminata's GitHub Stats](https://github-readme-stats.vercel.app/api?username=buminata&show_icons=true&theme=tokyonight&hide_title=false&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buminata&layout=compact&theme=tokyonight)
-
 ---
 
 # 📫 Connect With Me  
