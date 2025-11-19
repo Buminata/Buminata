@@ -3,7 +3,7 @@
 
 <!-- ============ TYPING INTRO ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=B897FF&center=true&vCenter=true&width=700&lines=Data+Engineer;Machine+Learning+Practitioner;LLM+%26+RAG+Builder;MLOps+Enthusiast;Turning+Data+Into+Real+Impact+🚀">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=F7F7F7&center=true&vCenter=true&width=900&lines=TEMANKU+SEMUA+PADA+JAHAT;TANTE+AKU+LAGI+SUSAH,+MEREKA+NGGAK+ADA;COBA+KALAU+LAGI+JAYA+AKU+DIPUJA-PUJANYA;TANTE+SUDAH+TERBIASA+ITU+TERJADI;TEMAN+DATANG+KETIKA+LAGI+BUTUH+SAJA;COBA+KALAU+LAGI+SUSAH+MEREKA+SEMUA+MENGHILANG" alt="Typing SVG" />
 </p>
 
 ---
