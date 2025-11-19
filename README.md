@@ -1,23 +1,20 @@
-Hi there! Welcome to my Github Profile! 👋
+# Hi there! Welcome to my GitHub Profile 👋
 
-I am Buminata and I am interested in all things IT engineering, infrastructure, and system reliability. I currently work around technology systems and love exploring how automation, networking, servers, and cloud tools can make systems cleaner and more efficient. I am currently located in BSD, Tangerang Selatan.
+I’m Buminata — a Data Analyst & Data Science professional with hands-on experience in building data-driven solutions, predictive models, and end-to-end analytics pipelines. With a background in Information Systems, I bridge the gap between business processes and technical execution, turning real-world problems into scalable and reliable data products.
 
-In my free time, I like to explore new tech, read, travel, and listen to different music genres over a cup of coffee or tea (in no particular order).
+### 🔍 Current Focus  
+Applied machine learning, LLMs, AI agents, and practical optimization of modern AI/ML systems.
 
-Check out my Portfolio for all of my projects, micro-projects, skills, certificates, and achievements.
+### 🛠️ Tech Stack Highlights  
+- **Languages:** Python (Pandas, PySpark, Scikit-learn), SQL, R  
+- **ML/AI:** Machine Learning, Deep Learning, NLP, Transformers, RAG  
+- **MLOps:** Docker, Airflow, FastAPI, MLflow  
+- **Cloud & DevOps:** AWS (Lambda, EC2, ECS), Git, Terraform  
+- **Databases:** PostgreSQL, Elasticsearch  
 
+### ❤️ What I Care About  
+Data clarity, model reliability, and delivering insights that genuinely make an impact.
 
-<!--
-**Buminata/Buminata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Feel free to explore my repositories—projects, micro-projects, tools, experiments, certificates, and everything I’m building along the way.
