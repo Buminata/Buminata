@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=B897FF&center=true&vCenter=true&width=700&lines=Data+Engineer;Machine+Learning+Practitioner;LLM+%26+RAG+Builder;MLOps+Enthusiast;Turning+Data+Into+Real+Impact+🚀">
 </p>
 
-## 🎭 Quotes Tante Mode On 😭🔥
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=FF6EC7&center=true&vCenter=true&width=900&lines=TEMANKU+SEMUAPADA+JAHAT+TANTE;AKU+LAGI+SUSAH+MEREKA+NGGAK+ADA;COBA+KALAU+LAGI+JAYA+AKU+DIPUJA+PUJANYA+TANTE;SUDAH+TERBIASA+TERJADI+TANTE;TEMAN+DATANG+KETIKA+LAGI+BUTUH+SAJA;COBA+KALAU+LAGI+SUSAH;MEREKA+SEMUA+MENGHILANG;TANTEEEEEEEEEEE">
-</p>
 
 ---
 
