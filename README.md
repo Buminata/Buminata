@@ -5,7 +5,10 @@
 ## 🎭 Quotes Tante Mode On
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=F7F7F7&center=true&vCenter=true&width=900&lines=TEMANKU+SEMUAPADA+JAHAT+TANTE;AKU+LAGI+SUSAH+MEREKA+NGGAK+ADA;COBA+KALAU+LAGI+JAYA+AKU+DIPUJA+PUJANYA;TANTE+SUDAH+TERBIASA+TERJADI+TANTE;TEMAN+DATANG+KETIKA+LAGI+BUTUH+SAJA;COBA+KALAU+LAGI+SUSAH;MEREKA+SEMUA+MENGHILANG;TANTEEEEEEEEEEE" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1100&color=FF6EC7&background=1D1836FF&center=true&vCenter=true&width=1000&height=120&lines=😡+TEMANKU+SEMUAPADA+JAHAT+TANTE;😔+AKU+LAGI+SUSAH+MEREKA+NGGAK+ADA;🔥+COBA+KALAU+LAGI+JAYA+AKU+DIPUJA+PUJANYA;🥀+TANTE+SUDAH+TERBIASA+TERJADI+TANTE;🤝+TEMAN+DATANG+KETIKA+LAGI+BUTUH+SAJA;😞+COBA+KALAU+LAGI+SUSAH;👻+MEREKA+SEMUA+MENGHILANG;😭🔥+TANTEEEEEEEEEEE"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
