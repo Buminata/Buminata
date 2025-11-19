@@ -3,7 +3,10 @@
 
 <!-- ============ TYPING INTRO ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=F7F7F7&center=true&vCenter=true&width=900&lines=TEMANKU+SEMUA+PADA+JAHAT;TANTE+AKU+LAGI+SUSAH,+MEREKA+NGGAK+ADA;COBA+KALAU+LAGI+JAYA+AKU+DIPUJA-PUJANYA;TANTE+SUDAH+TERBIASA+ITU+TERJADI;TEMAN+DATANG+KETIKA+LAGI+BUTUH+SAJA;COBA+KALAU+LAGI+SUSAH+MEREKA+SEMUA+MENGHILANG" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4200&pause=900&color=FF6EC7&background=1D1836FF&center=true&vCenter=true&multiline=true&width=900&height=80&lines=TEMANKU+SEMUAPADA+JAHAT+TANTE;AKU+LAGI+SUSAH+MEREKA+NGGAK+ADA+COBA+KALAU+LAGI+JAYA+AKU+DIPUJA+PUJANYA;TANTE+SUDAH+TERBIASA+TERJADI+TANTE;TEMAN+DATANG+KETIKA+LAGI+BUTUH+SAJA;COBA+KALAU+LAGI+SUSAH+MEREKA+SEMUA+MENGHILANG;TANTEEEEEEE"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
