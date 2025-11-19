@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi there! Welcome to my Github Profile! 👋
+
+I am Buminata and I am interested in all things IT engineering, infrastructure, and system reliability. I currently work around technology systems and love exploring how automation, networking, servers, and cloud tools can make systems cleaner and more efficient. I am currently located in BSD, Tangerang Selatan.
+
+In my free time, I like to explore new tech, read, travel, and listen to different music genres over a cup of coffee or tea (in no particular order).
+
+Check out my Portfolio for all of my projects, micro-projects, skills, certificates, and achievements.
+
 
 <!--
 **Buminata/Buminata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
