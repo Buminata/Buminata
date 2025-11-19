@@ -2,11 +2,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=180&section=header&text=Hi%20I'm%20Buminata%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <!-- ============ TYPING INTRO ============ -->
+## 🎭 Quotes Tante Mode On
+
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4200&pause=900&color=FF6EC7&background=1D1836FF&center=true&vCenter=true&multiline=true&width=900&height=80&lines=TEMANKU+SEMUAPADA+JAHAT+TANTE;AKU+LAGI+SUSAH+MEREKA+NGGAK+ADA+COBA+KALAU+LAGI+JAYA+AKU+DIPUJA+PUJANYA;TANTE+SUDAH+TERBIASA+TERJADI+TANTE;TEMAN+DATANG+KETIKA+LAGI+BUTUH+SAJA;COBA+KALAU+LAGI+SUSAH+MEREKA+SEMUA+MENGHILANG;TANTEEEEEEE"
-    alt="Typing SVG"
-  />
+  <img src="https://i.imgur.com/uj0yVqC.gif" width="500" />
+</p>
+
+### 🖤 Kalimatnya: <p align="center">
+  <b>🖤 Semua orang datang saat butuh. Saat kita susah? Menghilang.</b>
 </p>
 
 ---
