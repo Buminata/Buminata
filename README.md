@@ -109,14 +109,13 @@ Focused on **clean, efficient & reliable systems** that solve real-world problem
 ---
 
 # 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Buminata&show_icons=true&theme=tokyonight&border_radius=10" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Buminata&theme=tokyonight&border_radius=10" height="170" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buminata&layout=compact&theme=tokyonight&border_radius=10" height="160" />
-</p>
+![Buminata's GitHub Stats](https://github-readme-stats.vercel.app/api?username=buminata&show_icons=true&theme=tokyonight&count_private=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=buminata&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buminata&layout=compact&theme=tokyonight)
 
 ---
 
