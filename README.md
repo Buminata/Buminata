@@ -2,6 +2,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=180&section=header&text=Hi%20I'm%20Buminata%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <!-- ============ TYPING INTRO ============ -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=B897FF&center=true&vCenter=true&width=700&lines=Data+Engineer;Machine+Learning+Practitioner;LLM+%26+RAG+Builder;MLOps+Enthusiast;Turning+Data+Into+Real+Impact+🚀">
+</p>
+
 ## 🎭 Quotes Tante Mode On 😭🔥
 
 <p align="center">
