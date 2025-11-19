@@ -5,11 +5,10 @@
 ## 🎭 Quotes Tante Mode On
 
 <p align="center">
-  <img src="https://i.imgur.com/uj0yVqC.gif" width="500" />
-</p>
-
-### 🖤 Kalimatnya: <p align="center">
-  <b>🖤 Semua orang datang saat butuh. Saat kita susah? Menghilang.</b>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3800&pause=800&color=FF6EC7&background=1D1836FF&center=true&vCenter=true&multiline=true&width=900&height=90&lines=TEMANKU+SEMUAPADA+JAHAT+TANTE;AKU+LAGI+SUSAH+MEREKA+NGGAK+ADA+COBA+KALAU+LAGI+JAYA+AKU+DIPUJA+PUJANYA;TANTE+SUDAH+TERBIASA+TERJADI+TANTE;TEMAN+DATANG+KETIKA;LAGI+BUTUH+SAJA;COBA+KALAU+LAGI+SUSAH;MEREKA+SEMUA+MENGHILANG;TANTEEEEEEEEEEE"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
