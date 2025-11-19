@@ -27,7 +27,7 @@ Focused on **clean, efficient & reliable systems** that solve real-world problem
 
 ---
 
-# 🚀 Tech Stack (Ultimate Badge Mode)
+# 🚀 Tech Stack 
 
 ### **Languages**
 <p>
